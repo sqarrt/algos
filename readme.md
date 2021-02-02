@@ -8,7 +8,7 @@
 - [Алгоритм Евклида](https://github.com/sqarrt/algos/blob/master/algos.py#L71)
 - [Расширенный алгоритм Евклида (с множителями a и b)](https://github.com/sqarrt/algos/blob/master/algos.py#L78)
 - [Алгоритм n-ного числа Фибоначчи](https://github.com/sqarrt/algos/blob/master/algos.py#L129)
-- [Алгоритм n-ного числа Фибоначчи](https://github.com/sqarrt/algos/blob/master/algos.py#L135)
+- [Алгоритм n-ного числа Фибоначчи (Формула Эйлера)](https://github.com/sqarrt/algos/blob/master/algos.py#L135)
 - [Перевод числа в код Грея](https://github.com/sqarrt/algos/blob/master/algos.py#L140)
 - [Сортировка слиянием](https://github.com/sqarrt/algos/blob/master/algos.py#L182)
 - [Быстрая сортировка](https://github.com/sqarrt/algos/blob/master/algos.py#L205)
