@@ -1,0 +1,15 @@
+#### Здесь буду собирать алгоритмы, которые захотел реализовать
+##### Уже есть:
+- [Решето Эратосфена](https://github.com/sqarrt/algos/blob/master/algos.py#L4)
+- [Решето Эратосфена за линейное время](https://github.com/sqarrt/algos/blob/master/algos.py#L33)
+- [Разложение целого на простые множители](https://github.com/sqarrt/algos/blob/master/algos.py#L37)
+- [Бинарное возведение в степень](https://github.com/sqarrt/algos/blob/master/algos.py#L49)
+- [Функция Эйлера](https://github.com/sqarrt/algos/blob/master/algos.py#L59)
+- [Алгоритм Евклида](https://github.com/sqarrt/algos/blob/master/algos.py#L71)
+- [Расширенный алгоритм Евклида (с множителями a и b)](https://github.com/sqarrt/algos/blob/master/algos.py#L78)
+- [Алгоритм n-ного числа Фибоначчи](https://github.com/sqarrt/algos/blob/master/algos.py#L129)
+- [Алгоритм n-ного числа Фибоначчи](https://github.com/sqarrt/algos/blob/master/algos.py#L135)
+- [Перевод числа в код Грея](https://github.com/sqarrt/algos/blob/master/algos.py#L140)
+- [Сортировка слиянием](https://github.com/sqarrt/algos/blob/master/algos.py#L182)
+- [Быстрая сортировка](https://github.com/sqarrt/algos/blob/master/algos.py#L205)
+- [Перевод натурального числа в римскую систему](https://github.com/sqarrt/algos/blob/master/algos.py#L217)

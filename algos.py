@@ -74,7 +74,7 @@ def gcd(a, b):
     return gcd(b, a % b)
 
 
-# хуита
+# некорректно
 def gcd_ext(a, b):
     if a == 0:
         x = 0
